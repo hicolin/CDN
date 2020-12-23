@@ -8,6 +8,6 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 ```
 示例：
 ```cmd
-https://cdn.jsdelivr.net/gh/hicolin/cdn@1.1/images/one_piece.jpg
+https://cdn.jsdelivr.net/gh/hicolin/cdn@v1.2/images/one_piece.jpg
 ```
-![one_piece](https://cdn.jsdelivr.net/gh/hicolin/cdn@1.1/images/one_piece.jpg)
+![one_piece](https://cdn.jsdelivr.net/gh/hicolin/cdn@v1.2/images/one_piece.jpg)
